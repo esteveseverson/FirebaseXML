@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855054807783",
+    "project_id": "kotlin-auth-jetc",
+    "storage_bucket": "kotlin-auth-jetc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855054807783:android:cc0c653ad3c70e0889a842",
+        "android_client_info": {
+          "package_name": "com.example.firebasexml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0ebnY-ZcSXPVdoaSlx1DzlkAbn2Hdrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
